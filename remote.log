@@ -1,1 +1,1 @@
-b97055b7-2056-42a0-992c-d836552fc404 bucket=drulex.test.neuropoly.001 datacenter=US encryption=none host=s3.amazonaws.com name=s3 port=80 public=yes publicurl=http://drulex.test.neuropoly.001.s3.amazonaws.com storageclass=STANDARD type=S3 timestamp=1596035723.664755368s
+b97055b7-2056-42a0-992c-d836552fc404 bucket=drulex.test.neuropoly.001 datacenter=US encryption=none host=s3.amazonaws.com name=s3 port=80 public=yes publicurl=http://drulex.test.neuropoly.001.s3.amazonaws.com storageclass=STANDARD type=S3 timestamp=1596035903.541767501s
